@@ -26,7 +26,6 @@ function MainContent() {
         <Card
           id="wisata"
           title="Wisata"
-          img={pulauGusungImg}
           content="Berikut adalah beberapa objek wisata menarik di Penajam Paser Utara..."
           additionalSections={[
             { title: "Pulau Gusung", img: pulauGusungImg, content: "Pulau ini memiliki ekosistem bawah laut yang masih terjaga dengan baik..." },
